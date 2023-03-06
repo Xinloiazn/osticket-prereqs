@@ -282,7 +282,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/zklvv8K.png" height="75%" width="100%" alt="admin panel"/>
+	<img src="https://i.imgur.com/8wvWH0H.jpg" height="75%" width="100%" alt="admin panel"/>
 </p>
 <br />
 <br />
